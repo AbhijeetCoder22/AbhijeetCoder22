@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flask , Restful APIs , React**
 
-- 🌱 I’m currently learning **Flask , React , Mongo , Postgress**
+- 🌱 I’m currently learning **Flask , React , Django, Mongo , Postgress**
 
 - 💬 Ask me about **anything !!**
 
